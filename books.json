@@ -1,0 +1,52 @@
+{
+  "12345": {
+    "title": "The Great Gatsby",
+    "author": "F. Scott Fitzgerald",
+    "reviews": {
+      "user1": "Amazing book!"
+    }
+  },
+  "67890": {
+    "title": "1984",
+    "author": "George Orwell",
+    "reviews": {
+      "user2": "A bit dark but very insightful."
+    }
+  },
+  "11111": {
+    "title": "To Kill a Mockingbird",
+    "author": "Harper Lee",
+    "reviews": {
+      "user3": "A timeless classic!"
+    }
+  },
+  "22222": {
+    "title": "Brave New World",
+    "author": "Aldous Huxley",
+    "reviews": {}
+  },
+  "33333": {
+    "title": "Moby Dick",
+    "author": "Herman Melville",
+    "reviews": {
+      "user1": "Challenging but rewarding read."
+    }
+  },
+  "44444": {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "reviews": {
+      "user2": "Short but very powerful."
+    }
+  },
+  "55555": {
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "reviews": {}
+  },
+  "66666": {
+    "title": "The Catcher in the Rye",
+    "author": "J.D. Salinger",
+    "reviews": {}
+  }
+}
